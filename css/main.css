@@ -211,7 +211,6 @@ main {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23); }
 
 .portfolio {
-  clip-path: polygon(0% 0%, 100% 0, 100% 85%, 50% 100%, 0 85%);
   background: #1D3557;
   text-align: center; }
   .portfolio__heading2 {
